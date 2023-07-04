@@ -3,8 +3,8 @@ Example of applying data science using Python &amp; Pandas to the Titanic data s
 
 # Overview
 Written by:  Mark W Kiehl<br/>
-http://mechatronicsolutionsllc.com/
-http://www.savvysolutions.info/savvycodesolutions/
+http://mechatronicsolutionsllc.com/<br/>
+http://www.savvysolutions.info/savvycodesolutions/<br/>
 
 Read the Titanic dataset and perform Data Science on it using Pandas and SkyLearn.
 
