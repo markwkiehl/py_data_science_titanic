@@ -8,10 +8,10 @@ Get the Titanic data set: https://www.kaggle.com/datasets/yasserh/titanic-datase
 
 This data science example was inspired by and many portions derived from the following two articles:  
 
-"Predicting the Survival of Titanic Passengers" by Niklas Donges
+"Predicting the Survival of Titanic Passengers" by Niklas Donges<br/>
 https://towardsdatascience.com/predicting-the-survival-of-titanic-passengers-30870ccc7e8
        
-"Building a Machine Learning Model Step By Step With the Titanic Dataset" by Taha Bilal Uyar
+"Building a Machine Learning Model Step By Step With the Titanic Dataset" by Taha Bilal Uyar<br/>
 https://medium.com/swlh/building-a-machine-learning-model-step-by-step-with-the-titanic-dataset-e3462d849387
 
 The data pre-processing employed is different from what each author did, so the results in each article are not exact, but they are very close. 
