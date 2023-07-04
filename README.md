@@ -2,7 +2,7 @@
 Example of applying data science using Python &amp; Pandas to the Titanic data set
 
 # Overview
-Written by:  Mark W Kiehl
+Written by:  Mark W Kiehl<br/>
 http://mechatronicsolutionsllc.com/
 http://www.savvysolutions.info/savvycodesolutions/
 
